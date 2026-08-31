@@ -5,5 +5,5 @@ There are 25 LiDAR metrics have been calculated at 1 m spatial resolution.
 
 •	The AHN4 data is available at: https://www.ahn.nl/dataroom[https://www.ahn.nl/dataroom].
 
-The shapefile of Natura2000 sites within the Netherlands has been provided in the [shp folder](./shp/) folder. 
-The Jupyter Notebooks that were used to calculate LiDAR metrics can be found in the [Notebooks folder](./Notebooks/) folder.
+The shapefile of Natura2000 sites within the Netherlands has been provided in the [shp](./shp/) folder. 
+The Jupyter Notebooks that were used to calculate LiDAR metrics can be found in the [Notebooks](./Notebooks/) folder.
