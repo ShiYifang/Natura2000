@@ -1,0 +1,1 @@
+We normalized the point clouds at 1x1 m grid cell, and calculated all LiDAR metrics at 1 m spatial resolution. 
