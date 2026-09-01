@@ -11,3 +11,5 @@ This repository provides the Jupyter Notebooks and related information for gener
   
 - The shapefile of Natura2000 sites within the Netherlands was retrieved from [Natura 2000 viewer](https://natura2000.eea.europa.eu/), and has been provided in the [shp](./shp/) folder.
 
+- The final data layer (GeoTIFF format) at 1 m resolution is available at: [https://zenodo.org/records/22233099](https://zenodo.org/records/22233099)
+  
