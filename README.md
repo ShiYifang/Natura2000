@@ -13,3 +13,4 @@ This repository provides the Jupyter Notebooks and related information for gener
 
 - The final data layer (GeoTIFF format) at 1 m resolution is available at: [https://zenodo.org/records/22233099](https://zenodo.org/records/22233099)
   
+<img width="8000" height="4500" alt="Natura2000_overview" src="https://github.com/user-attachments/assets/e3473914-e7a3-46d0-9ca1-c7ed8206b02c" />
